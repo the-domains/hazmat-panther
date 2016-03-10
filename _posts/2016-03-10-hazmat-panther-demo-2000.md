@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: hazmat panther demo 2000
-datePublished: '2016-03-10T22:05:59.330Z'
-dateModified: '2016-03-10T22:05:27.456Z'
+datePublished: '2016-03-10T22:10:43.890Z'
+dateModified: '2016-03-10T22:06:07.441Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-10-hazmat-panther-demo-2000.md

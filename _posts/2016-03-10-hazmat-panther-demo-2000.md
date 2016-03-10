@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: hazmat panther demo 2000
-datePublished: '2016-03-10T22:10:43.890Z'
-dateModified: '2016-03-10T22:06:07.441Z'
+description: Hazmat Panther
+datePublished: '2016-03-10T22:11:49.053Z'
+dateModified: '2016-03-10T22:11:36.560Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-10-hazmat-panther-demo-2000.md
@@ -22,6 +22,7 @@ url: hazmat-panther-demo-2000/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/62c031e9-35d4-467d-ba7e-46db275d6851.jpg)
+Hazmat Panther
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e9740d83-a2c0-4ff4-85db-9bd0a82910a8.png)
 
-hazmat panther demo 2000
+Welcome to Hazmat Panther Global Information Systems
